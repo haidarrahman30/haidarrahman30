@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo guys!
 
-<!--
-**haidarrahman30/haidarrahman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Haidar Rahman**
 
-Here are some ideas to get you started:
+I am a **Web Developer** at [GenBI NTB](https://www.instagram.com/genbi.ntb/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am still learning and understanding about the world of web development, which I currently serve as a web developer at GenBI NTB and slowly learning about android development.
+
+I've worked on several projects that I built and developed : 
+<li> <a href="http://thehafiz.my.id/"> TheHafiz Application </a> with repository <a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/">At here</a></li>
+<li> <a href="https://gemart.my.id/"> Gemart Application </a> </li>
+
+If you are interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/haidarrahman30/).
