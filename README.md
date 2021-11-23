@@ -2,7 +2,6 @@
 
 I'm **Haidar Rahman**
 
-I am a **Web Developer** at [GenBI NTB](https://www.instagram.com/genbi.ntb/)
 
 I am still learning and understanding about the world of web development, which I currently serve as a web developer at GenBI NTB and slowly learning about android development.
 
