@@ -3,7 +3,7 @@
 I'm **Haidar Rahman**
 
 
-I am still learning and understanding about the world of web development, which I currently serve as a web developer at GenBI NTB and slowly learning about android development.
+I am still learning and understanding about the world of web development and slowly learning about android development.
 
 I've worked on several projects that I built and developed : 
 <li> <a href="http://thehafiz.my.id/"> TheHafiz Application </a> with repository <a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/">At here</a></li>
