@@ -3,7 +3,7 @@
 I'm **Haidar Rahman**
 
 
-I am still learning and understanding about the world of web development and slowly learning about web development, android development and machine learning.
+I am still learning and understanding about the world of web development and slowly learning about Design UI/UX, android development and machine learning.
 
 If you are interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/haidarrahman30/).
 
