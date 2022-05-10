@@ -3,11 +3,7 @@
 I'm **Haidar Rahman**
 
 
-I am still learning and understanding about the world of web development and slowly learning about android development.
-
-I've worked on several projects that I built and developed : 
-<li> <a href="http://thehafiz.my.id/"> TheHafiz Application </a> with repository <a href="https://github.com/haidarrahman30/HafizDev_TheHafiz-App/">At here</a></li>
-<li> <a href="https://gemart.my.id/"> Gemart Application </a> </li>
+I am still learning and understanding about the world of web development and slowly learning about web development, android development and machine learning.
 
 If you are interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/haidarrahman30/).
 
