@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a passion for both Front-end and Back-end technologies. I spend most of my time crafting outstanding projects, exploring the latest trends in technology topics, and diving into mobile development trend. I love bringing ideas to life through code.
 
-:mailbox: Reach me out!
+:mailbox: Reach me out! <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Haidar_Rahman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidarrahman30/) 
 [![Mail Badge](https://img.shields.io/badge/-@Haidar_Rahmane84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haidarrahman30/) 
 [![Mail Badge](https://img.shields.io/badge/-Haidar_Rahman-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haidarrahmans30@gmail.com)
